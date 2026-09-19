@@ -247,4 +247,4 @@ This repository serves as the official landing page for Zimbra Desktop. The soft
 **Get the most recent version of Zimbra Desktop today!**
 
 ---
-**Last updated:** 2026-09-19 11:39:57 UTC
+**Last updated:** 2026-09-19 14:54:03 UTC
